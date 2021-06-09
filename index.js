@@ -161,7 +161,7 @@ Use the filterByWord function below to do the following:
 */
 
 function filterByWord(/*your code here*/){
-    /*your code here*/....
+    /*your code here*/.....
 }
 
 
